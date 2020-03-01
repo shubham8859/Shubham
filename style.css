@@ -1,0 +1,25 @@
+.abc{
+    text-align: center;
+    font-weight: normal;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgb(92, 219, 149);
+}
+.main{
+    
+    background-color:rgb(5, 56, 107);
+}
+
+.output{
+    background-color:  rgb(92, 219, 149);
+    color: teal;
+    font-size: 17px;
+    
+}
+
+h1
+{
+    border-bottom:7px solid #000;
+}
+    
+    
